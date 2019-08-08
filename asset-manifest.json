@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "Schow94.github.io/card-deck/static/css/main.f85f76cf.chunk.css",
-    "main.js": "Schow94.github.io/card-deck/static/js/main.9c20b04c.chunk.js",
-    "main.js.map": "Schow94.github.io/card-deck/static/js/main.9c20b04c.chunk.js.map",
-    "runtime~main.js": "Schow94.github.io/card-deck/static/js/runtime~main.f57f8fbf.js",
-    "runtime~main.js.map": "Schow94.github.io/card-deck/static/js/runtime~main.f57f8fbf.js.map",
-    "static/js/2.f1739c53.chunk.js": "Schow94.github.io/card-deck/static/js/2.f1739c53.chunk.js",
-    "static/js/2.f1739c53.chunk.js.map": "Schow94.github.io/card-deck/static/js/2.f1739c53.chunk.js.map",
-    "index.html": "Schow94.github.io/card-deck/index.html",
-    "precache-manifest.939c43c01116b3be1c6dc34e5489baba.js": "Schow94.github.io/card-deck/precache-manifest.939c43c01116b3be1c6dc34e5489baba.js",
-    "service-worker.js": "Schow94.github.io/card-deck/service-worker.js",
-    "static/css/main.f85f76cf.chunk.css.map": "Schow94.github.io/card-deck/static/css/main.f85f76cf.chunk.css.map"
+    "main.css": "Schow94.github.io/cardDraw-react/static/css/main.f85f76cf.chunk.css",
+    "main.js": "Schow94.github.io/cardDraw-react/static/js/main.9c20b04c.chunk.js",
+    "main.js.map": "Schow94.github.io/cardDraw-react/static/js/main.9c20b04c.chunk.js.map",
+    "runtime~main.js": "Schow94.github.io/cardDraw-react/static/js/runtime~main.2676491d.js",
+    "runtime~main.js.map": "Schow94.github.io/cardDraw-react/static/js/runtime~main.2676491d.js.map",
+    "static/js/2.f1739c53.chunk.js": "Schow94.github.io/cardDraw-react/static/js/2.f1739c53.chunk.js",
+    "static/js/2.f1739c53.chunk.js.map": "Schow94.github.io/cardDraw-react/static/js/2.f1739c53.chunk.js.map",
+    "index.html": "Schow94.github.io/cardDraw-react/index.html",
+    "precache-manifest.562f019a7c88b79c7d0b1c894c040ebc.js": "Schow94.github.io/cardDraw-react/precache-manifest.562f019a7c88b79c7d0b1c894c040ebc.js",
+    "service-worker.js": "Schow94.github.io/cardDraw-react/service-worker.js",
+    "static/css/main.f85f76cf.chunk.css.map": "Schow94.github.io/cardDraw-react/static/css/main.f85f76cf.chunk.css.map"
   }
 }
