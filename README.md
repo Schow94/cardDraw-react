@@ -1,3 +1,6 @@
+## Hosted on Github Pages
+https://schow94.github.io/cardDraw-react/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
